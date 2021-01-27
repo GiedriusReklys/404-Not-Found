@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+@media only screen and (max-width: 420px) {
+    .main-container {
+      flex-wrap: wrap;
+    }
+}
+
+@media only screen and (min-width: 720px) {
+    .text-container {
+        width: 40%;
+    }
+    
+}
+
+body {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: 'Share Tech Mono', monospace;
+    height: 100vh;
+}
+
+header {
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+.main-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;  
+    margin-bottom: 50px;
+}
+
+.error-img {
+   max-width: 80%;
+   height: auto;
+   
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.5;
+    white-space: pre-line;
+}
+
+.text-container {
+    padding: 10px;
+}
+
+.text-container p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.homepage-button {
+    padding: 15px;
+    margin-top: 10px;
+    font-weight: 700;
+    color: white;
+    background-color: #2f2f2f;
+    border: none;
+}
+
+footer {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 1rem;  
+}
+
+.footer-link {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-link:hover {
+    color: blue;
+    text-decoration: underline;
+}
