@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://giedriusreklys.github.io/404-Not-Found/">
       Demo
     </a>
     <span> | </span>
@@ -66,5 +66,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@GiedriusReklys](https://github.com/GiedriusReklys)
+- GitHub [GiedriusReklys](https://github.com/GiedriusReklys)
