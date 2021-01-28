@@ -36,7 +36,12 @@
 
 ## Overview
 
+### Desktop
+
 ![screenshot](https://github.com/GiedriusReklys/404-Not-Found/blob/main/output/desktop.png)
+
+### Mobile
+
 ![screenshot](https://github.com/GiedriusReklys/404-Not-Found/blob/main/output/mobile.png)
 
 ### Built With
@@ -62,4 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@GiedriusReklys](https://github.com/GiedriusReklys)
